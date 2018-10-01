@@ -1,2 +1,4 @@
-# git-demo
-A simple demo repository to show the basic Git workflow
+-Introduction
+-Project description
+-Project structure
+-Coding conventions
